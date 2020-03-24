@@ -8,7 +8,7 @@ In order to make the procedure clear,I decide to implement and train RPN and fas
 
 
 ## Region Proposal Network
-To evaluate our model performance, you can direcly execute:
+To evaluate my model performance, you can direcly execute:
 ```
 python train.py
 ```
