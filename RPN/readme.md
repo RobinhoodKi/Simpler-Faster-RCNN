@@ -16,14 +16,13 @@ training set
 
 |classfication(anchors) | regression |
 |----------|--------|
-|<img src="https://github.com/RobinhoodKi/Simpler-Faster-RCNN/tree/master/RPN/result/cls_v.png" width="200">|<img src="https://github.com/RobinhoodKi/Simpler-Faster-RCNN/tree/master/RPN/result/cls_v.png" width="200">|
+|<img src="https://github.com/RobinhoodKi/Simpler-Faster-RCNN/blob/master/RPN/result/cls_v.png" width="200">|<img src="https://github.com/RobinhoodKi/Simpler-Faster-RCNN/blob/master/RPN/result/reg_v.png" width="200">|
 
 testing set
 
 |test_1 | test_2 |  test_3|
 |----------|--------|------|
-|<img src="https://github.com/RobinhoodKi/Simpler-Faster-RCNN/tree/master/RPN/result/t_1.png" width="200">|<img src="https://github.com/RobinhoodKi/Simpler-Faster-RCNN/tree/master/RPN/result/t_2.png" width="200">|<img src="https://github.com/RobinhoodKi/Simpler-Faster-RCNN/tree/master/RPN/result/t_3.png" width="200">|<img src="https://github.com/RobinhoodKi/Simpler-Faster-RCNN/tree/master/RPN/result/t_4.png" width="200">|
-
+|<img src="https://github.com/RobinhoodKi/Simpler-Faster-RCNN/blob/master/RPN/result/t_1.png" width="200">|<img src="https://github.com/RobinhoodKi/Simpler-Faster-RCNN/blob/master/RPN/result/t_2.png" width="200">|<img src="https://github.com/RobinhoodKi/Simpler-Faster-RCNN/blob/master/RPN/result/t_3.png" width="200">|
 
 ## Fast-RCNN
 Building now..
